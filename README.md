@@ -30,12 +30,5 @@ Un sistema básico de mensajería con **Apache Kafka** usando Spring Boot, donde
 - Simular microservicios comunicándose mediante eventos.
 - Usarlo como base para sistemas de notificaciones, logs distribuidos o procesamiento asíncrono.
 
-## ▶️ Cómo ejecutar el proyecto
 
-### 1. Levantar Kafka y Zookeeper con Docker
-
-Asegúrate de tener **Docker** instalado y ejecuta:
-
-```bash
-docker-compose up -d
 
